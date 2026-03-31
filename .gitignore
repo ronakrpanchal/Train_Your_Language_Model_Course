@@ -177,3 +177,5 @@ data/private/
 output/
 checkpoints/
 AtlaSetCombined.txt
+
+**/.DS_Store
